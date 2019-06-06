@@ -9745,4 +9745,20 @@ p {
   width: 50%;
 }
 
+.container {
+  margin-top: 520px;
+  margin-left: 55px;
+}
+
+.container__p {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  padding-right: 828px;
+}
+
+.container__h1 {
+  font-family: "PT Mono", monospace;
+  font-size: 30px;
+}
+
 /*# sourceMappingURL=style.css.map */
