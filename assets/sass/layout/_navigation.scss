@@ -1,0 +1,70 @@
+.navei__img{
+  width: 2%;
+  margin-left: 1rem;
+  margin-right: 2rem;
+}
+
+.navei__a1{
+  font-family: $ptmono;
+  color: $spanishgray;
+  font-weight: $regular;
+  margin-right: 2rem;
+
+    &:hover{
+      color: $outerspace;
+    }
+}
+
+.navei__a2{
+  font-family: $ptmono;
+  color: $spanishgray;
+  font-weight: $regular;
+
+    &:hover{
+      color: $outerspace;
+    }
+}
+
+.navei__boton1{
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 22px;
+  padding-right: 22px;
+  float: right;
+
+  margin-right: 4rem;
+  background-color: $shinyshamrock;
+  float: right;
+  margin-right: 3rem;
+  border: none;
+
+  font-family: $ptmono;
+  color: $white;
+
+    &:hover{
+      color: $outerspace;
+      background-color: $turquoisegreen;
+    }
+
+
+
+}
+
+.navei__boton2{
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  background-color: $white;
+  float: right;
+  margin-right: 3rem;
+  border-style: solid;
+  border-color: $quicksilver;
+  border-width: thin;
+  font-family: $ptmono;
+  color: $spanishgray;
+
+    &:hover{
+      color: $outerspace;
+      border-color: $outerspace;
+    }
+
+}
