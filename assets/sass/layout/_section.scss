@@ -1,17 +1,133 @@
 .container{
-  margin-top: 520px;
+  margin-top: 55px;
   margin-left: 55px;
 
 }
+
 
 .container__p{
   font-family: $roboto;
   font-size: $medium;
   padding-right: 828px;
+
 }
 
 
 .container__h1{
   font-family: $ptmono;
   font-size: $x-large;
+}
+
+.box1__h4{
+  font-size: $xx-large;
+  font-family: $ptmono;
+}
+
+.box1__h2{
+  font-size: $xx-large;
+  font-family: $ptmono;
+}
+
+.box1__h3{
+  font-size: $xx-large;
+  font-family: $ptmono;
+}
+
+
+.box1__p1{
+  width: 99%;
+  font-size:$medium;
+  font-family: $roboto;
+}
+
+.box1__p2{
+  width: 99%;
+  font-size: $medium;
+  font-family: $roboto;
+}
+
+.box1__p3{
+  width: 60%;
+  font-size: $medium;
+  font-family: $roboto;
+}
+
+.box1__div1{
+  float: left;
+}
+
+.box1__div2{
+
+  float: left;
+}
+
+
+.box1__div3{
+
+  float: left;
+}
+
+
+.box1{
+  background-color: $white;
+  width: 539px;
+  height: 125px;
+  padding-left: 35px;
+  padding-top: 10px;
+}
+
+.box1__div4{
+  background-color: $bluedefrance;
+  width: 539px;
+  height: 218px;
+}
+
+.sectionnn{
+  top: 400px;
+  left: 440px;
+  position: absolute;
+}
+
+.container__img{
+  height: 256px;
+  width: 377px;
+}
+
+.container__div2{
+  position: absolute;
+  left: 72%;
+  top: 525px;
+}
+
+.container__img2{
+  left: 820px;
+  top: 525px;
+  height: 128px;
+  position: absolute;
+  clip: rect(0px, 183px, 128px, 79px);
+}
+
+.container__img3{
+  width: 458px;
+  position: absolute;
+  top: 555px;
+  left: 405px;
+}
+
+.container2{
+  position: absolute;
+  width: 126px;
+  height: 126px;
+  background-color: $buff;
+  top: 399px;
+  left: 899px;
+}
+
+.container3{
+  position: absolute;
+  width: 126px;
+  height: 126px;
+  background-color: $lightreochre;
+  top: 380px;
+  left: 880px;
 }
